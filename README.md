@@ -59,3 +59,41 @@ The first prototype is presented for the test play to:
 2. The gameplay is supposed to make the player try again, but after 3 tries the player don't feel like trying.
 3. Even if you know the route to the exit, it is still not easy to find the exit.
 4. You actually play the game on the mini map, which makes the game a third person game.
+
+
+## SECOND GAME DESIGN AND PROTOTYPE
+
+The critics were right.
+
+
+## Designed Second Prototype
+
+When player comes to an entrance where he has to make a right or left turn; he taps at the corners of his smart phone and listens to the abnormal and normal sounds of the heart.
+Chooses the abnormal sound by again tapping the corners of the phone to find the exit.
+Play tested with a medical student and mentor.
+
+## Result
+Approved for teaching the sound.
+
+## TO BE DONE
+
+* The Prototype has to be finished until the 4th of August! -- DONE
+
+* Patients clinical story (or text reinforcements of the abnormalities of heart) and the definition and
+tutorial to play the game will be done with a voice over. -- DONE
+
+* Time limit -- DONE
+
+* Exit of the labyrith -- DONE
+
+* Victory / Lose conditions -- DONE
+
+* Other levels than S3/S4 heart conditions -- DONE
+
+* Any art or anything that would make it look like a labyrinth -- DONE
+
+* Other features
+
+* Polish & Game Feel
+
+* For the test play it will be uploaded to itch.io -- DONE
