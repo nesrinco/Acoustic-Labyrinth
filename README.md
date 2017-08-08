@@ -1,13 +1,21 @@
 # ACOUSTIC LABYRINTH
 
-What is auscultation?
+
+## What is auscultation?
 
 1. http://depts.washington.edu/physdx/heart/index.html
-2. http://teachingheartauscultation.com/)
+2. http://teachingheartauscultation.com/
+
+
+## TRAILER
+
+https://goo.gl/3BXAd7
+
 
 ## New Way to Learn Auscultation?
 
 Mastering Cardiac Murmurs : the power of repetition (article in the folder)
+
 
 ## THE GAME DESIGN
 
@@ -23,9 +31,11 @@ Mastering Cardiac Murmurs : the power of repetition (article in the folder)
 * Badgets of medical studies levels will be assigned to success to ensure the repition. The goal is to lead the player study one sound 500 times (Scientific fact: %80 will be remembered)
 * The prototype will be developed as soon as possible to make a test play with the medical students.
 
+
 ## BUILDING THE TEAM
 
 A developer is needed as the core member for the team!
+
 
 ## FIRST PROTOTYPE
 
@@ -34,12 +44,14 @@ A developer is needed as the core member for the team!
 * There is a progress bar, time counting backwards (120seconds).
 * When taking the wrong direction, like in moving opposite the direction of the exit you hear the normal beat of the heart.
 
+
 ## TEST PLAY
 
 The first prototype is presented for the test play to:
 
 1. Medical Students
 2. Game Design Master Students
+
 
 ## REVIEWS
 
