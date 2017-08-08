@@ -46,4 +46,4 @@ The first prototype is presented for the test play to:
 1. When you play, you memorise the route you are following you are not really listening.
 2. The gameplay is supposed to make the player try again, but after 3 tries the player don't feel like trying.
 3. Even if you know the route to the exit, it is still not easy to find the exit.
-4- You actually play the game on the mini map, which makes the game a third person game.
+4. You actually play the game on the mini map, which makes the game a third person game.
