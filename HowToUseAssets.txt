@@ -1,0 +1,13 @@
+For using the paid Assets, mail me at nesrinco@gmail.com
+
+I will mail you a copy of the Assets folder, 
+containing all the assets (of course!).
+
+You have to place the Assets folder in the main folder 
+directory.
+
+Then move the Scripts folder from the main directory to 
+the Assets folder.
+
+Now (and only now) you can open the project in Unity and 
+continue development!
