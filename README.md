@@ -1,5 +1,11 @@
 # ACOUSTIC LABYRINTH
 
+## IMPORTANT
+
+To continue development of this project in Unity, you will need the paid Assets, 
+for which you have to contact me.
+
+Email : nesrinco@gmail.com
 
 ## What is auscultation?
 
