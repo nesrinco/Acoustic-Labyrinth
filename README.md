@@ -5,6 +5,8 @@
 To continue development of this project in Unity, you will need the paid Assets, 
 for which you have to contact me.
 
+Read the "HowToUseAssets.txt" for more information.
+
 Email : nesrinco@gmail.com
 
 ## What is auscultation?
